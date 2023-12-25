@@ -1,0 +1,57 @@
+
+@font-face {
+    font-family: plant;
+    src: url(Agbalumo-Regular.ttf);
+}
+
+.plant{
+    font-family: plant;
+    display: inline;
+}
+
+.wagha{
+    width: 100%;
+    height: 600px;
+}
+
+
+.q{
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    margin-left: 60px;
+    margin-top: -100px;
+}
+
+.w{
+    margin-left: 690px;
+}
+
+.q:hover{
+    text-decoration: underline;
+}
+
+.z{
+    font-family: plant;
+    color: white;
+    position: absolute;
+    margin-top: -350px;
+    margin-left: 530px;
+    font-size: 60px;
+}
+
+.y{
+    border: 10px black solid;
+    opacity: 0.9;
+}
+
+.y:hover{
+    opacity: 1;
+}
+
+
+
+
+
+
+
